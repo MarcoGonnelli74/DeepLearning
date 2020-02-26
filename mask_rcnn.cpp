@@ -10,10 +10,6 @@
 #include <iostream>
 #include <string.h>
 
-//#include "/home/marco/OpenCV-4.2.0/lib/include/opencv4/opencv2/opencv.hpp"
-//#include "/home/marco/OpenCV-4.2.0/lib/include/opencv4/opencv2/dnn.hpp"
-//#include "/home/marco/OpenCV-4.2.0/lib/include/opencv4/opencv2/imgproc.hpp"
-//#include "/home/marco/OpenCV-4.2.0/lib/include/opencv4/opencv2/highgui.hpp"
 #include <opencv2/dnn.hpp>
 #include <opencv2/imgproc.hpp>
 #include <opencv2/highgui.hpp>
